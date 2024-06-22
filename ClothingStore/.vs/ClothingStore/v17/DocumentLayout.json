@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.bll\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.bll\\services\\interfaces\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\interfaces\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.bll\\services\\interfaces\\ibilldetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\interfaces\\ibilldetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.bll\\services\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.bll\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.bll\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.bll\\clothingstore.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\clothingstore.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\implementations\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\implementations\\billdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\billdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\implementations\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\implementations\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\clothingstore.dal\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\clothingstore.dal\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\interfaces\\ibilldetailrepoository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\ibilldetailrepoository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240622083038_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingStore.DAL\\Migrations\\20240622083038_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\clothingstore.dal\\contexts\\applicationdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\contexts\\applicationdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\interfaces\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\clothingstore.dal\\contexts\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\contexts\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240622051554_add-account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingStore.DAL\\Migrations\\20240622051554_add-account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothingstore\\clothingstore.dal\\datasettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\datasettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\clothingstore.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\clothingstore.dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\clothingstore.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\clothingstore.dal\\models\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621201110_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingStore.DAL\\Migrations\\20240621201110_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621195443_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingStore.DAL\\Migrations\\20240621195443_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621200559_update-model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingStore.DAL\\Migrations\\20240621200559_update-model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621192828_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingStore.DAL\\Migrations\\20240621192828_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\clothingstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|solutionrelative:clothingstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 38,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBillDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IBillDetailService.cs",
+              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Interfaces\\IBillDetailService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IBillDetailService.cs",
+              "RelativeToolTip": "ClothingStore.BLL\\Services\\Interfaces\\IBillDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:55:43.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBillService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IBillService.cs",
+              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Interfaces\\IBillService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IBillService.cs",
+              "RelativeToolTip": "ClothingStore.BLL\\Services\\Interfaces\\IBillService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:55:28.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "ClothingStore.BLL\\Services\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:54:49.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "ClothingStore.BLL\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:54:32.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ClothingStore.BLL\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:54:00.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ClothingStore.BLL\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "ClothingStore.BLL\\DTOs\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:51:52.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClothingStore.BLL",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\ClothingStore.BLL.csproj",
+              "RelativeDocumentMoniker": "ClothingStore.BLL\\ClothingStore.BLL.csproj",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.BLL\\ClothingStore.BLL.csproj",
+              "RelativeToolTip": "ClothingStore.BLL\\ClothingStore.BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T10:46:35.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\AccountRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:39:38.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BillDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\BillDetailRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\BillDetailRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\BillDetailRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\BillDetailRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowC0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:32:26.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\BillRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\BillRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\BillRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\BillRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswDIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:19:15.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:41:08.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\CustomerRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:49:19.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:40:12.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBillDetailRepoository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IBillDetailRepoository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\IBillDetailRepoository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IBillDetailRepoository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\IBillDetailRepoository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:32:46.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Bill.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\Bill.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Models\\Bill.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:32:29.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Contexts\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Contexts\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA6wBMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:48:33.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:33:13.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240622083038_initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240622083038_initial.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Migrations\\20240622083038_initial.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240622083038_initial.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Migrations\\20240622083038_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:30:38.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:20:13.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\Account.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Models\\Account.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:01:02.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBillRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IBillRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\IBillRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IBillRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\IBillRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:34:24.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:33:50.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBInitializer.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Contexts\\ApplicationDBInitializer.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBInitializer.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Contexts\\ApplicationDBInitializer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:08:56.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:32:22.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240622051554_add-account.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240622051554_add-account.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Migrations\\20240622051554_add-account.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240622051554_add-account.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Migrations\\20240622051554_add-account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:15:54.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:44:11.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDBContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBContextFactory.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Contexts\\ApplicationDBContextFactory.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBContextFactory.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Contexts\\ApplicationDBContextFactory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:51:47.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BillDetail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\BillDetail.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\BillDetail.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\BillDetail.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Models\\BillDetail.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:33:11.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240621195443_initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621195443_initial.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Migrations\\20240621195443_initial.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621195443_initial.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Migrations\\20240621195443_initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:54:44.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240621201110_initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621201110_initial.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Migrations\\20240621201110_initial.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621201110_initial.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Migrations\\20240621201110_initial.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:11:10.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "datasettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\datasettings.json",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\datasettings.json",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\datasettings.json",
+              "RelativeToolTip": "ClothingStore.DAL\\datasettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T12:01:25.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240621200559_update-model.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621200559_update-model.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Migrations\\20240621200559_update-model.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621200559_update-model.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Migrations\\20240621200559_update-model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:05:59.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\Customer.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Models\\Customer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:13:09.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Models\\Product.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Models\\Product.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:39:27.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240621192828_initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621192828_initial.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Migrations\\20240621192828_initial.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240621192828_initial.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Migrations\\20240621192828_initial.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:28:28.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.API\\Program.cs",
+              "RelativeDocumentMoniker": "ClothingStore.API\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.API\\Program.cs",
+              "RelativeToolTip": "ClothingStore.API\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:30:34.133Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

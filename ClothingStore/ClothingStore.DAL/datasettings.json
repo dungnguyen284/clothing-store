@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=LAPTOP-1O1FBHF3\\SQLEXPRESS01;uid=sa;pwd=123;Database=ClothingStoreDtb;Trusted_Connection=True;TrustServerCertificate=true;"
+  }
+}
