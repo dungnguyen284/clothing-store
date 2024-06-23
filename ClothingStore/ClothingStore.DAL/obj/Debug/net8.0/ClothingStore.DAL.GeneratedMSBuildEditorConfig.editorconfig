@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClothingStore.DAL
-build_property.ProjectDir = C:\Users\admin\Documents\FR_.Net\EFC\ClothingStore\ClothingStore.DAL\
+build_property.ProjectDir = C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.DAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

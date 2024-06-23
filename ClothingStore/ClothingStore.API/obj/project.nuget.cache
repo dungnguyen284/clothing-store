@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Nnvl3eCIyxHPbC1NqG0HYs3o44OgUq1PUMDUjTAdHlG92k4NNOGb2YwyEdXGeRQ12ukD5PC8UptjjT1KbRi+A==",
+  "dgSpecHash": "Y+7F6Aok6A0ABaYSTjWNPsQbOX95VzOFhHgkvaJRvjeyKj7qF+/RokWoQrfRNlJdpqyg6Monu8t59AJldietbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.API\\ClothingStore.API.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\ClothingStore.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

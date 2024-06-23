@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QpZDQURsL68NRcVuXFtzWYBbVRtYEQJkPXy2/t9/PJRjQg4yNgQY+pinK6SwSmjiFXIKTwWvRT5uIe/Kueaqrw==",
+  "dgSpecHash": "/q7tWPw31ArZakZ8HhyYCgQYOuNVHNkNdHPqkbMrvojPkzZ+lUQ59TREx7Tf8/5Bo7I9M9Tq2UL1Q4WO0knD4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\ClothingStore.DAL.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\ClothingStore.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

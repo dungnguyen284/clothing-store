@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\ClothingStore.DAL.csproj": {}
+    "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\ClothingStore.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\ClothingStore.DAL.csproj": {
+    "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\ClothingStore.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\ClothingStore.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\ClothingStore.DAL.csproj",
         "projectName": "ClothingStore.DAL",
-        "projectPath": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\ClothingStore.DAL.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\ClothingStore.DAL.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\ClothingStore\\ClothingStore.DAL\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
