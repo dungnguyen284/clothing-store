@@ -10,7 +10,7 @@ namespace ClothingStore.BLL.Services.Interfaces
 {
     public interface IBillService
     {
-        Task<ApiResponse<Bill>> GetAllBillsAsync();
+        Task<ApiResponse<List<Bill>>> GetAllBillsAsync();
         Task<ApiResponse<Bill>> GetBillsByIdAsync(int id);
         Task<ApiResponse<Bill>> AddBillAsync(Bill bill);
         Task<ApiResponse<Bill>> UpdateBillAsync(Bill bill);

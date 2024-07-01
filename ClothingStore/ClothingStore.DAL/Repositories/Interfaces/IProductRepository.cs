@@ -9,13 +9,13 @@ namespace ClothingStore.DAL.Repositories.Interfaces
 {
     public interface IProductRepository
     {
-        public void AddProduct(Product product);
-        public void UpdateProduct(Product product);
-        public void DeleteProduct(Product product);
-        public List<Product> GetAllProducts();
-        public Product GetProductById(int id);
-        public Product GetProductByName(string name);
-        public List<Product> GetProductsByCategory(int categoryId);
+        public Task AddProductAsync(Product product);
+        public Task UpdateProductAsync(Product product);
+        public Task DeleteProductAsync(Product product);
+        public Task<List<Product>> GetAllProductsAsync();
+        public Task<Product> GetProductByIdAsync(int id);
+        public Task<List<Product>> GetProductByNameAsync(string name);
+        public Task<List<Product>> GetProductsByCategoryAsync(int categoryId);
 
     }
 }

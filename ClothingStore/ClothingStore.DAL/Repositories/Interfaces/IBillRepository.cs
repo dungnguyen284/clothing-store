@@ -9,12 +9,12 @@ namespace ClothingStore.DAL.Repositories.Interfaces
 {
     public interface IBillRepository
     {
-        public void AddBill(Bill bill);
-        public void UpdateBill(Bill bill);
-        public Bill GetBillById(int id);
-        public List<Bill> GetBillsByCustomerId(int customerId);
-        public List<Bill> GetAllBills();
-        public List<Bill> GetBillsByDate(DateTime date);
-        public List<Bill> GetBillBetween(DateTime date1, DateTime date2);
+        public Task AddBillAsync(Bill bill);
+        public Task UpdateBillAsync(Bill bill);
+        public Task<Bill> GetBillByIdAsync(int id);
+        public Task<List<Bill>> GetBillsByCustomerIdAsync(int customerId);
+        public Task<List<Bill>> GetAllBillsAsync();
+        public Task<List<Bill>> GetBillsByDateAsync(DateTime date);
+        public Task<List<Bill>> GetBillBetweenAsync(DateTime date1, DateTime date2);
     }
 }

@@ -1,6 +1,7 @@
 ﻿using ClothingStore.DAL.Contexts;
 using ClothingStore.DAL.Models;
 using ClothingStore.DAL.Repositories.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,39 +17,41 @@ namespace ClothingStore.DAL.Repositories.Implementations
         {
             _context = context;
         }
-        public void AddBill(Bill bill)
+        public async Task AddBillAsync(Bill bill)
         {
-            _context.Bills.Add(bill);
+            await _context.Bills.AddAsync(bill);
+            await _context.SaveChangesAsync();
         }
 
-        public List<Bill> GetAllBills()
+        public async Task<List<Bill>> GetAllBillsAsync()
         {
-            return _context.Bills.ToList();
+            return await _context.Bills.ToListAsync();
         }
 
-        public List<Bill> GetBillBetween(DateTime date1, DateTime date2)
+        public async Task<List<Bill>> GetBillBetweenAsync(DateTime date1, DateTime date2)
         {
-            return _context.Bills.Where(b => b.Date >= date1 && b.Date <= date2).ToList();
+            return await _context.Bills.Where(b => b.Date >= date1 && b.Date <= date2).ToListAsync();
         }
 
-        public Bill GetBillById(int id)
+        public async Task<Bill> GetBillByIdAsync(int id)
         {
-            return _context.Bills.FirstOrDefault(b => b.Id == id);
+            return await _context.Bills.FirstOrDefaultAsync(b => b.Id == id);
         }
 
-        public List<Bill> GetBillsByCustomerId(int customerId)
+        public async Task<List<Bill>> GetBillsByCustomerIdAsync(int customerId)
         {
-            return _context.Bills.Where(b => b.CustomerId == customerId).ToList();
+            return await _context.Bills.Where(b => b.CustomerId == customerId).ToListAsync();
         }
 
-        public List<Bill> GetBillsByDate(DateTime date)
+        public async Task<List<Bill>> GetBillsByDateAsync(DateTime date)
         {
-            return _context.Bills.Where(b => b.Date == date).ToList();
+            return await _context.Bills.Where(b => b.Date == date).ToListAsync();
         }
 
-        public void UpdateBill(Bill bill)
+        public async Task UpdateBillAsync(Bill bill)
         {
             _context.Bills.Update(bill);
+            await _context.SaveChangesAsync();
         }
     }
 }

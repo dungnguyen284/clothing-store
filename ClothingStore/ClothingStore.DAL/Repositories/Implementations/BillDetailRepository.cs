@@ -1,6 +1,7 @@
 ﻿using ClothingStore.DAL.Contexts;
 using ClothingStore.DAL.Models;
 using ClothingStore.DAL.Repositories.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,41 +10,44 @@ using System.Threading.Tasks;
 
 namespace ClothingStore.DAL.Repositories.Implementations
 {
-    public class BillDetailRepository : IBillDetailRepoository
+    public class BillDetailRepository : IBillDetailRepository
     {
         private readonly ApplicationDBContext _context;
         public BillDetailRepository(ApplicationDBContext context)
         {
             _context = context;
         }   
-        public void AddBillDetail(BillDetail billDetail)
+        public async Task AddBillDetailAsync(BillDetail billDetail)
         {
-            _context.BillDetails.Add(billDetail);
+            await _context.BillDetails.AddAsync(billDetail);
+            await _context.SaveChangesAsync();
         }
 
-        public void DeleteBillDetail(BillDetail billDetail)
+        public async Task DeleteBillDetailAsync(BillDetail billDetail)
         {
-            _context.BillDetails.Remove(billDetail);
+             _context.BillDetails.Remove(billDetail);
+            await _context.SaveChangesAsync();
         }
 
-        public List<BillDetail> GetAllBillDetails()
+        public async Task<List<BillDetail>> GetAllBillDetailsAsync()
         {
-            return _context.BillDetails.ToList();
+            return await _context.BillDetails.ToListAsync();
         }
 
-        public BillDetail GetBillDetailById(int id)
+        public async Task<BillDetail> GetBillDetailByIdAsync(int id)
         {
-            return _context.BillDetails.FirstOrDefault(b => b.Id == id);
+            return await _context.BillDetails.FirstOrDefaultAsync(b => b.Id == id);
         }
 
-        public List<BillDetail> GetBillDetailsByBillId(int billId)
+        public async Task<List<BillDetail>> GetBillDetailsByBillIdAsync(int billId)
         {
-            return _context.BillDetails.Where(b => b.BillId == billId).ToList();
+            return await _context.BillDetails.Where(b => b.BillId == billId).ToListAsync();
         }
 
-        public void UpdateBillDetail(BillDetail billDetail)
+        public async Task UpdateBillDetailAsync(BillDetail billDetail)
         {
-            return _context.BillDetails.Update(billDetail);
+            _context.BillDetails.Update(billDetail);
+            _context.SaveChangesAsync();
         }
     }
 }

@@ -9,10 +9,10 @@ namespace ClothingStore.DAL.Repositories.Interfaces
 {
     public interface IAccountRepository
     {
-        public void UpdateAccount(Account account);
-        public Account GetAccountById(int id);
-        public Account GetAccountByUsername(string username);
-        public Account GetAccountByEmail(string email);
-        public Account GetAccountByPhoneNumber(string phoneNumber);
+        Task UpdateAccountAsync(Account account);
+        Task<Account> GetAccountByIdAsync(int id);
+        Task<Account> GetAccountByUsernameAsync(string username);
+        Task<Account> GetAccountByEmailAsync(string email);
+        Task<Account> GetAccountByPhoneNumberAsync(string phoneNumber);
     }
 }

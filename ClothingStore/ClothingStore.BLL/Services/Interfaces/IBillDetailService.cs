@@ -1,4 +1,5 @@
 ﻿using ClothingStore.BLL.CustomResponse;
+using ClothingStore.DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,6 @@ namespace ClothingStore.BLL.Services.Interfaces
 {
     public interface IBillDetailService
     {
-        Task<ApiResponse<bool>> GetBillDetailsOfBill(int billId);
+        Task<ApiResponse<List<BillDetail>>> GetBillDetailsOfBill(int billId);
     }
 }

@@ -12,6 +12,6 @@ namespace ClothingStore.BLL.Services.Interfaces
     {
         Task<ApiResponse<bool>> ForgotPasswordAsync(string email);
         Task<ApiResponse<bool>> LoginAsync(LoginRequest request);
-        Task<ApiResponse<bool>> ChangePasswordAsync(ChangePasswordRequest request);
+        Task<ApiResponse<bool>> ChangePasswordAsync(ChangePasswordRequest request, int accountId);
     }
 }

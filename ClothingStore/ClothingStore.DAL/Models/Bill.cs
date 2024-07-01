@@ -10,7 +10,6 @@ namespace ClothingStore.DAL.Models
 {
     public class Bill
     {
-        [Key]
         public int Id { get; set; }
         [ForeignKey("CustomerId")]
         public int CustomerId { get; set; }

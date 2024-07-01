@@ -1,6 +1,7 @@
 ﻿using ClothingStore.DAL.Contexts;
 using ClothingStore.DAL.Models;
 using ClothingStore.DAL.Repositories.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,34 +17,37 @@ namespace ClothingStore.DAL.Repositories.Implementations
         {
             _context = context;
         }
-        public void AddCustomer(Customer customer)
+
+        public async Task AddCustomerAsync(Customer customer)
         {
-            _context.Customers.Add(customer);
+            await _context.Customers.AddAsync(customer);
+            await _context.SaveChangesAsync();
         }
 
-        public List<Customer> GetAllCustomers()
+        public async Task<List<Customer>> GetAllCustomersAsync()
         {
-            return _context.Customers.ToList();
+            return await _context.Customers.ToListAsync();
         }
 
-        public Customer GetCustomerById(int id)
+        public async Task<Customer> GetCustomerByIdAsync(int id)
         {
-            return _context.Customers.FirstOrDefault(c => c.Id == id);
+            return await _context.Customers.FirstOrDefaultAsync(c => c.Id == id);
         }
 
-        public Customer GetCustomerByPhoneNumber(string phoneNumber)
+        public async Task<Customer> GetCustomerByPhoneNumberAsync(string phoneNumber)
         {
-            return _context.Customers.FirstOrDefault(c => c.Phone == phoneNumber);
+            return await _context.Customers.FirstOrDefaultAsync(c => c.Phone == phoneNumber);
         }
 
-        public List<Customer> GetCustomersByName(string name)
+        public async Task<List<Customer>> GetCustomersByNameAsync(string name)
         {
-            return _context.Customers.Where(c => c.UserName.Contains(name)).ToList();
+            return await _context.Customers.Where(c => c.UserName == name).ToListAsync();
         }
 
-        public void UpdateCustomer(Customer customer)
+        public async Task UpdateCustomerAsync(Customer customer)
         {
             _context.Customers.Update(customer);
+            await _context.SaveChangesAsync();
         }
     }
 }

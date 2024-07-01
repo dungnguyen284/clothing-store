@@ -14,6 +14,6 @@ namespace ClothingStore.BLL.Services.Interfaces
         Task<ApiResponse<Category>> GetCategoryByIdAsync(int id);
         Task<ApiResponse<Category>> CreateCategoryAsync(Category Category);
         Task<ApiResponse<Category>> UpdateCategoryAsync(Category Category);
-        Task DeleteCategory(int id);
+        Task<ApiResponse<bool>> DeleteCategory(int id);
     }
 }

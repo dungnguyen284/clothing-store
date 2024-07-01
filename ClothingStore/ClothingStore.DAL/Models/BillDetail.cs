@@ -5,7 +5,6 @@ namespace ClothingStore.DAL.Models
 {
     public class BillDetail
     {
-        [Key]
         public int Id { get; set; }
         [Required]
         [ForeignKey("BillId")]

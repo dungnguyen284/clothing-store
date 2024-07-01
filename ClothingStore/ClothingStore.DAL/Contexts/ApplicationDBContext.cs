@@ -23,12 +23,48 @@ namespace ClothingStore.DAL.Contexts
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            modelBuilder.Entity<Customer>().ToTable("Customer");
-            modelBuilder.Entity<Category>().ToTable("Category");
-            modelBuilder.Entity<Product>().ToTable("Product");
-            modelBuilder.Entity<Bill>().ToTable("Bill");
-            modelBuilder.Entity<BillDetail>().ToTable("BillDetail");
-            modelBuilder.Entity<Account>().ToTable("Account");
+            modelBuilder.Entity<Customer>(entity =>
+            {
+                entity.ToTable("Customer");
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Id).ValueGeneratedOnAdd();
+
+            });
+            modelBuilder.Entity<Category>(entity =>
+            {
+                entity.ToTable("Category");
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Id).ValueGeneratedOnAdd();
+
+            });
+            modelBuilder.Entity<Product>(entity =>
+            {
+                entity.ToTable("Product");
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Id).ValueGeneratedOnAdd();
+
+            });
+            modelBuilder.Entity<Bill>(entity =>
+            {
+                entity.ToTable("Bill");
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Id).ValueGeneratedOnAdd();
+
+            });
+            modelBuilder.Entity<BillDetail>(entity =>
+            {
+                entity.ToTable("BillDetail");
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Id).ValueGeneratedOnAdd();
+
+            });
+            modelBuilder.Entity<Account>(entity =>
+            {
+                entity.ToTable("Account");
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Id).ValueGeneratedOnAdd();
+
+            });
             modelBuilder.Seed();
         }
     }

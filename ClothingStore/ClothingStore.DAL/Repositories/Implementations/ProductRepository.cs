@@ -1,6 +1,7 @@
 ﻿using ClothingStore.DAL.Contexts;
 using ClothingStore.DAL.Models;
 using ClothingStore.DAL.Repositories.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,39 +18,42 @@ namespace ClothingStore.DAL.Repositories.Implementations
         {
             _context = context;
         }
-        public void AddProduct(Product product)
+
+        public async Task AddProductAsync(Product product)
         {
-            _context.Products.Add(product);
+            await _context.Products.AddAsync(product);
+            await _context.SaveChangesAsync();
         }
 
-        public void DeleteProduct(Product product)
+        public async Task DeleteProductAsync(Product product)
         {
-            _context.Products.Remove(product);
+            await Task.Run(() => _context.Products.Remove(product));
         }
 
-        public List<Product> GetAllProducts()
+        public async Task<List<Product>> GetAllProductsAsync()
         {
-            return _context.Products.ToList();
+            return await _context.Products.Where(p => p.IsDeleted == false).ToListAsync();
         }
 
-        public Product? GetProductById(int id)
+        public async Task<Product> GetProductByIdAsync(int id)
         {
-            return _context.Products.FirstOrDefault(p => p.Id == id);
+            return await _context.Products.FirstOrDefaultAsync(p => p.Id == id);
         }
 
-        public Product? GetProductByName(string name)
+        public async Task<List<Product>> GetProductByNameAsync(string name)
         {
-            return _context.Products.FirstOrDefault(p => p.Name == name);
+            return await _context.Products.Where(p => p.Name.Contains(name)).ToListAsync();
         }
 
-        public List<Product> GetProductsByCategory(int categoryId)
+        public async Task<List<Product>> GetProductsByCategoryAsync(int categoryId)
         {
-            return _context.Products.Where(p => p.CategoryId == categoryId).ToList();
+            return await _context.Products.Where(p => p.CategoryId == categoryId).ToListAsync();
         }
 
-        public void UpdateProduct(Product product)
+        public async Task UpdateProductAsync(Product product)
         {
             _context.Products.Update(product);
+            await _context.SaveChangesAsync();
         }
     }
 }

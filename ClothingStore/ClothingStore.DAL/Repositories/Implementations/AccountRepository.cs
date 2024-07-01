@@ -1,6 +1,7 @@
 ﻿using ClothingStore.DAL.Contexts;
 using ClothingStore.DAL.Models;
 using ClothingStore.DAL.Repositories.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,29 +17,30 @@ namespace ClothingStore.DAL.Repositories.Implementations
         {
             _context = context;
         }
-        public Account GetAccountByEmail(string email)
+        public async Task<Account> GetAccountByEmailAsync(string email)
         {
-            return _context.Accounts.FirstOrDefault(a => a.Email == email);
+            return await _context.Accounts.FirstOrDefaultAsync(a => a.Email == email);
         }
 
-        public Account GetAccountById(int id)
+        public async Task<Account> GetAccountByIdAsync(int id)
         {
-            return _context.Accounts.FirstOrDefault(a => a.Id == id);
+            return  await _context.Accounts.FirstOrDefaultAsync(a => a.Id == id);
         }
 
-        public Account GetAccountByPhoneNumber(string phoneNumber)
+        public async Task<Account> GetAccountByPhoneNumberAsync(string phoneNumber)
         {
-            return _context.Accounts.FirstOrDefault(a => a.PhoneNumber == phoneNumber);
+            return await _context.Accounts.FirstOrDefaultAsync(a => a.PhoneNumber == phoneNumber);
         }
 
-        public Account GetAccountByUsername(string username)
+        public async Task<Account> GetAccountByUsernameAsync(string username)
         {
-            return _context.Accounts.FirstOrDefault(a => a.UserName == username);
+            return await _context.Accounts.FirstOrDefaultAsync(a => a.Username == username);
         }
 
-        public void UpdateAccount(Account account)
+        public async Task UpdateAccountAsync(Account account)
         {
             _context.Accounts.Update(account);
+            await _context.SaveChangesAsync();
         }
     }
 }

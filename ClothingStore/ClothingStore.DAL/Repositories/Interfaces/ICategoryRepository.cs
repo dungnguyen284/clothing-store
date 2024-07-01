@@ -9,11 +9,12 @@ namespace ClothingStore.DAL.Repositories.Interfaces
 {
     public interface ICategoryRepository
     {
-        public void AddCategory(Category category);
-        public void UpdateCategory(Category category);
-        public Category GetCategoryById(int id);
-        public Category GetCategoryByName(string name);
-        public List<Category> GetAllCategories();
+        public Task AddCategoryAsync(Category category);
+        public Task UpdateCategoryAsync(Category category);
+        public Task<Category> GetCategoryByIdAsync(int id);
+        public Task<Category> GetCategoryByNameAsync(string name);
+        public Task<List<Category>> GetAllCategoriesAsync();
+        public Task DeleteCategoryAsync(Category category);
 
     }
 }
