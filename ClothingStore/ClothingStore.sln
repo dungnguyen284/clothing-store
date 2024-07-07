@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClothingStore.API", "Clothi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClothingStore.BLL", "ClothingStore.BLL\ClothingStore.BLL.csproj", "{B8A18453-8888-40A2-9EEF-002FD172C454}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClothingStore.DAL", "ClothingStore.DAL\ClothingStore.DAL.csproj", "{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClothingStore.DAL", "ClothingStore.DAL\ClothingStore.DAL.csproj", "{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClothingStore.WPF", "ClothingStore.WPF\ClothingStore.WPF.csproj", "{7E027111-1FBF-4311-9E0F-CF442BB95FC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E027111-1FBF-4311-9E0F-CF442BB95FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E027111-1FBF-4311-9E0F-CF442BB95FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E027111-1FBF-4311-9E0F-CF442BB95FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E027111-1FBF-4311-9E0F-CF442BB95FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

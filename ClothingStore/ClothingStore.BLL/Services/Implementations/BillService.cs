@@ -29,6 +29,11 @@ namespace ClothingStore.BLL.Services.Implementations
                 response.StatusCode = HttpStatusCode.NotFound;
                 return response;
             }
+            await _billRepository.AddBillAsync(bill);
+            response.Data = bill;
+            response.Message = "Bill added successfully";
+            response.StatusCode = HttpStatusCode.OK;
+            return response;
         }
 
         public async Task<ApiResponse<List<Bill>>> GetAllBillsAsync()
@@ -43,7 +48,7 @@ namespace ClothingStore.BLL.Services.Implementations
 
         }
 
-        public async Task<ApiResponse<List<Bill>>> GetBillBetween(DateTime date1, DateTime date2)
+        public async Task<ApiResponse<List<Bill>>> GetBillsBetweenAsync(DateTime date1, DateTime date2)
         {
             var response = new ApiResponse<List<Bill>>();
             var bills = await _billRepository.GetBillBetweenAsync(date1, date2);
@@ -53,7 +58,7 @@ namespace ClothingStore.BLL.Services.Implementations
             return response;
         }
 
-        public async Task<ApiResponse<List<Bill>>> GetBillByDate(DateTime date)
+        public async Task<ApiResponse<List<Bill>>> GetBillsByDate(DateTime date)
         {
             var response = new ApiResponse<List<Bill>>();
             var bills = await _billRepository.GetBillsByDateAsync(date);
@@ -63,7 +68,7 @@ namespace ClothingStore.BLL.Services.Implementations
             return response;
         }
 
-        public async Task<ApiResponse<Bill>> GetBillsByIdAsync(int id)
+        public async Task<ApiResponse<Bill>> GetBillByIdAsync(int id)
         {
             var response = new ApiResponse<Bill>();
             var bill = await _billRepository.GetBillByIdAsync(id);

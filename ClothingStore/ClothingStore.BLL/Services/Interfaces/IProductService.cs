@@ -15,7 +15,7 @@ namespace ClothingStore.BLL.Services.Interfaces
         Task<ApiResponse<bool>> DeleteProductAsync(Product product);
         Task<ApiResponse<List<Product>>> GetAllProductsAsync();
         Task<ApiResponse<Product>> GetProductByIdAsync(int id);
-        Task<ApiResponse<Product>> GetProductByNameAsync(string name);
+        Task<ApiResponse<List<Product>>> GetProductByNameAsync(string name);
         Task<ApiResponse<List<Product>>> GetProductByCategoryAsync(int id);
     }
     

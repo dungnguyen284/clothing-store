@@ -6,6 +6,7 @@ using ClothingStore.DAL.Repositories.Interfaces;
 using ClothingStore.DAL.Repositories.Implementations;
 using ClothingStore.DAL.Contexts;
 using Microsoft.EntityFrameworkCore;
+using ClothingStore.BLL.Services.Implementations;
 
 namespace ClothingStore.API
 {
@@ -29,12 +30,17 @@ namespace ClothingStore.API
                 options.UseSqlServer("Server=LAPTOP-1O1FBHF3\\SQLEXPRESS01;uid=sa;pwd=123;Database=ClothingStoreDtb;Trusted_Connection=True;TrustServerCertificate=true;");
             });
             builder.Services.AddTransient<IAccountRepository, AccountRepository>();
+            builder.Services.AddTransient<IBillRepository, BillRepository>();
+            builder.Services.AddTransient<IProductRepository, ProductRepository>();
+            builder.Services.AddTransient<IBillDetailRepository, BillDetailRepository>();
+            builder.Services.AddTransient<ICustomerRepository, CustomerRepository>();
+            builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
 
-            //builder.Services.AddScoped<IProductService, ProductService>();
-            //builder.Services.AddScoped<ICustomerService, CustomerService>();
-            //builder.Services.AddScoped<IBillService, BillService>();
-            //builder.Services.AddScoped<IBillDetailService, BillDetailService>();
-            //builder.Services.AddScoped<ICategoryService, CategoryService>();
+            builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<ICustomerService, CustomerService>();
+            builder.Services.AddScoped<IBillService, BillService>();
+            builder.Services.AddScoped<IBillDetailService, BillDetailService>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
             builder.Services.AddScoped<IAccountService, AccountService>();
             builder.Services.AddTransient<IEmailSender, MailService>();
 

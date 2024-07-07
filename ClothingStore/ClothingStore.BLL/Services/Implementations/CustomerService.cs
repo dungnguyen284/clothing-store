@@ -68,6 +68,7 @@ namespace ClothingStore.BLL.Services.Implementations
             response.StatusCode = HttpStatusCode.OK;
             response.Data = customer;
             response.Message = "Successfully";
+            return response;
         }
 
         public async Task<ApiResponse<List<Customer>>> GetCustomerByNameAsync(string name)
