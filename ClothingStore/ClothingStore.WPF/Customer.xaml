@@ -58,12 +58,6 @@
                                         <TextBlock Text="Products"/>
                                     </StackPanel>
                                 </Button>
-                                <Button Style="{StaticResource menuButton}" Click="Category_Clicked">
-                                    <StackPanel Orientation="Horizontal">
-                                        <Icon:PackIconMaterial Kind="HomeVariant" Style="{StaticResource menuButtonIcon}"/>
-                                        <TextBlock Text="Categories"/>
-                                    </StackPanel>
-                                </Button>
                                 <Button Style="{StaticResource menuButton}" Click="Bill_Clicked">
                                     <StackPanel Orientation="Horizontal">
                                         <Icon:PackIconMaterial Kind="HomeVariant" Style="{StaticResource menuButtonIcon}"/>

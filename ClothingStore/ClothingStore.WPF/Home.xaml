@@ -58,12 +58,6 @@
                                     <TextBlock Text="Products"/>
                                 </StackPanel>
                             </Button>
-                            <Button Style="{StaticResource menuButton}" Click="Category_Clicked">
-                                <StackPanel Orientation="Horizontal">
-                                    <Icon:PackIconMaterial Kind="HomeVariant" Style="{StaticResource menuButtonIcon}"/>
-                                    <TextBlock Text="Categories"/>
-                                </StackPanel>
-                            </Button>
                             <Button Style="{StaticResource menuButton}" Click="Bill_Clicked">
                                 <StackPanel Orientation="Horizontal">
                                     <Icon:PackIconMaterial Kind="HomeVariant" Style="{StaticResource menuButtonIcon}"/>
@@ -90,7 +84,7 @@
 
             </Grid>
             
-            <TextBlock Text="Home" FontSize="32" FontWeight="SemiBold" Margin="5,103,0,10" HorizontalAlignment="Left" Foreground="#121518" Grid.Column="1"/>
+            <TextBlock Text="Dashboard" FontSize="32" FontWeight="SemiBold" Margin="5,103,0,10" HorizontalAlignment="Left" Foreground="#121518" Grid.Column="1"/>
 
         </Grid>
 

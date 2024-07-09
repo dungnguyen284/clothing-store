@@ -14,7 +14,6 @@ namespace ClothingStore.DAL.Models
         public string Description { get; set; }
         public string Image { get; set; }
         public int Quantity { get; set; }
-        [Required]
         [ForeignKey("CategoryId")]
         public int CategoryId { get; set; }
         public Category Category { get; set; }

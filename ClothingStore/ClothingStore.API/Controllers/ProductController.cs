@@ -45,11 +45,7 @@ namespace ClothingStore.API.Controllers
         public async Task<IActionResult> CreateProduct([FromBody] Product product)
         {
             var result = await _productService.AddProductAsync(product);
-            if (result.IsSuccess)
-            {
-                return Ok(result);
-            }
-            return BadRequest(result);
+            return Ok(result);         
         }
 
         [HttpPut("{id}")]
@@ -85,6 +81,12 @@ namespace ClothingStore.API.Controllers
                 return Ok(result);
             }
             return BadRequest(result);
+        }
+        [HttpGet("search")]
+        public async Task<IActionResult> GetProductsByName(string Name)
+        {
+            var result = await _productService.GetProductByNameAsync(Name);
+            return Ok(result);
         }
     }
 }

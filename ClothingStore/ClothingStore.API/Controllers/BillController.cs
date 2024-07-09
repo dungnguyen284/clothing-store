@@ -15,7 +15,7 @@ namespace ClothingStore.API.Controllers
             _billService = billService;
         }
         [HttpGet] 
-        public async Task<IActionResult> GetAllBill()
+        public async Task<IActionResult> GetAllBills()
         {
             var result = await _billService.GetAllBillsAsync();
             return Ok(result);

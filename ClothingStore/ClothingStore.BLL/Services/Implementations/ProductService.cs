@@ -22,14 +22,6 @@ namespace ClothingStore.BLL.Services.Implementations
         public async Task<ApiResponse<bool>> AddProductAsync(Product product)
         {
             ApiResponse<bool> response = new();
-            var productExist = await _productRepository.GetProductByNameAsync(product.Name);
-            if (productExist != null)
-            {
-                response.Data = false;
-                response.Message = "Product already exist";
-                response.StatusCode = HttpStatusCode.NotFound;
-                return response;
-            }
 
             await _productRepository.AddProductAsync(product);
             response.Data = true;

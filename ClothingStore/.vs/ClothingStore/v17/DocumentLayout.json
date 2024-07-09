@@ -3,252 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\popupwindows\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\popupwindows\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\product.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\product.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\popupwindows\\editproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\popupwindows\\editproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\customer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.bll\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\popupwindows\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\popupwindows\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\customer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\customer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\product.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\product.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\customer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\customer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\category.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\category.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\bill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\bill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\bill.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\bill.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\bill.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|solutionrelative:clothingstore.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|solutionrelative:clothingstore.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.api\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|solutionrelative:clothingstore.api\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\interfaces\\ibilldetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\ibilldetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\implementations\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\implementations\\billdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\billdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\implementations\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\migrations\\20240630053927_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\migrations\\20240630053927_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\contexts\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\contexts\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\contexts\\applicationdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\contexts\\applicationdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\datasettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\datasettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.api\\clothingstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|solutionrelative:clothingstore.api\\clothingstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\resetpassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\resetpassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|solutionrelative:clothingstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\dtos\\daterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\dtos\\daterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|solutionrelative:clothingstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\interfaces\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\interfaces\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\implementations\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\implementations\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\implementations\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\implementations\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\interfaces\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\interfaces\\ibilldetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\interfaces\\ibilldetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\category.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\category.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\resetpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\resetpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\clothingstore.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\clothingstore.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\images\\key-icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\images\\key-icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingStore.WPF\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|solutionrelative:clothingstore.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\bill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\bill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\implementations\\billdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\implementations\\billdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\popupwindows\\editproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\popupwindows\\editproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\repositories\\implementations\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -257,22 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\models\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.bll\\customresponse\\httpstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\customresponse\\httpstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -282,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 38,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -294,209 +114,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Product.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Product.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Product.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\Product.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-06T03:46:12.589Z",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAwwHoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:32:57.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\App.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\App.xaml.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T05:41:09.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\App.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\App.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\App.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-04T17:51:19.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Home.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Home.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\Home.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-05T08:10:11.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\DTOs\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\DTOs\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\DTOs\\LoginRequest.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\DTOs\\LoginRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T15:42:11.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Customer.xaml.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Customer.xaml.cs",
               "RelativeDocumentMoniker": "ClothingStore.WPF\\Customer.xaml.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Customer.xaml.cs",
               "RelativeToolTip": "ClothingStore.WPF\\Customer.xaml.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwDAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T05:41:59.296Z",
+              "WhenOpened": "2024-07-09T16:27:58.846Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ClothingStore.WPF.csproj",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ClothingStore.WPF.csproj",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\ClothingStore.WPF.csproj",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ClothingStore.WPF.csproj",
-              "RelativeToolTip": "ClothingStore.WPF\\ClothingStore.WPF.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-04T17:37:05.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bill.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Bill.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Bill.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Bill.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Models\\Bill.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:16:13.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Login.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Login.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\Login.xaml.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAowFUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T03:08:30.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "BillService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\BillService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Implementations\\BillService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\BillService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Implementations\\BillService.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAEwDIAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:41:19.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Product.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Product.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Product.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\Product.xaml.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAawF4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T03:46:22.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Profile.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Profile.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Profile.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Profile.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\Profile.xaml.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAkwF4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T05:42:27.952Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Home.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Home.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\Home.xaml.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAADwv1IAAAAjAAAA",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\AssemblyInfo.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T08:10:14.693Z",
+              "WhenOpened": "2024-07-09T16:27:56.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Login.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Login.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Login.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\Login.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-05T03:08:20.731Z"
+              "DocumentIndex": 7,
+              "Title": "Bill.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Bill.xaml.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\Bill.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Bill.xaml.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\Bill.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:27:51.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Profile.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Profile.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Profile.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Profile.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\Profile.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-06T05:39:02.1Z"
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\App.xaml.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:27:50.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Customer.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Customer.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Customer.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Customer.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\Customer.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-06T05:21:59.096Z"
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ClothingStore.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ClothingStore.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwC4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:27:17.468Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Category.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Category.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Category.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Category.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\Category.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-06T04:55:23.427Z"
+              "DocumentIndex": 1,
+              "Title": "EditProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwC4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:03:01.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -507,525 +212,162 @@
               "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Bill.xaml",
               "RelativeToolTip": "ClothingStore.WPF\\Bill.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-06T04:56:05.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Bill.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Bill.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Bill.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Bill.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\Bill.xaml.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwDAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T05:42:12.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\AssemblyInfo.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:51:16.834Z"
+              "WhenOpened": "2024-07-09T13:21:53.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "ClothingStore.API\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "ClothingStore.API\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:34:40.532Z"
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Profile.xaml",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\Profile.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Profile.xaml",
+              "RelativeToolTip": "ClothingStore.WPF\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T13:16:24.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ClothingStore.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ClothingStore.API\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAcwFYAAAAmAAAA",
+              "DocumentIndex": 14,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\Home.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\Home.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAYwEAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:34:37.623Z"
+              "WhenOpened": "2024-07-09T13:15:47.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "BillController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Controllers\\BillController.cs",
-              "RelativeDocumentMoniker": "ClothingStore.API\\Controllers\\BillController.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Controllers\\BillController.cs",
-              "RelativeToolTip": "ClothingStore.API\\Controllers\\BillController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAmwC0AAAAAAAAA",
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\Home.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml",
+              "RelativeToolTip": "ClothingStore.WPF\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T13:10:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAxwDwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T10:02:55.076Z"
+              "WhenOpened": "2024-07-09T12:15:47.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Services\\ProductService.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\Services\\ProductService.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAJcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:59:09.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwEMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:40:02.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml",
+              "RelativeToolTip": "ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T04:37:45.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "IBillDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IBillDetailRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\IBillDetailRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IBillDetailRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\IBillDetailRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T05:47:11.707Z"
+              "Title": "EditProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml",
+              "RelativeToolTip": "ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T03:44:20.382Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "IAccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IAccountRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\IAccountRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IAccountRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\IAccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T16:15:07.717Z"
+              "WhenOpened": "2024-07-07T15:01:57.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BillRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\BillRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\BillRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\BillRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\BillRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:15:41.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BillDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\BillDetailRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\BillDetailRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\BillDetailRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\BillDetailRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T16:14:56.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T08:56:40.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\AccountRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\AccountRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\AccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:15:40.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20240630053927_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240630053927_Initial.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Migrations\\20240630053927_Initial.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Migrations\\20240630053927_Initial.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Migrations\\20240630053927_Initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T16:14:30.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ApplicationDBInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBInitializer.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Contexts\\ApplicationDBInitializer.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBInitializer.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Contexts\\ApplicationDBInitializer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:50:14.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "datasettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\datasettings.json",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\datasettings.json",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\datasettings.json",
-              "RelativeToolTip": "ClothingStore.DAL\\datasettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-06T16:13:49.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ApplicationDBContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBContextFactory.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Contexts\\ApplicationDBContextFactory.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBContextFactory.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Contexts\\ApplicationDBContextFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:50:15.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Contexts\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Contexts\\ApplicationDBContext.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Contexts\\ApplicationDBContext.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAADwv0MAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:50:01.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ClothingStore.API.csproj",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\ClothingStore.API.csproj",
-              "RelativeDocumentMoniker": "ClothingStore.API\\ClothingStore.API.csproj",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\ClothingStore.API.csproj",
-              "RelativeToolTip": "ClothingStore.API\\ClothingStore.API.csproj",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-30T05:39:13.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "MailService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\MailService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\MailService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\MailService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\MailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T16:11:54.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ResetPassword.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ResetPassword.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\ResetPassword.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ResetPassword.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\ResetPassword.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-05T03:35:12.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IBillService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IBillService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Interfaces\\IBillService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IBillService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Interfaces\\IBillService.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBAAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:56:06.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "DateRequest.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\DTOs\\DateRequest.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\DTOs\\DateRequest.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\DTOs\\DateRequest.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\DTOs\\DateRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T10:10:31.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "IBillRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IBillRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\IBillRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IBillRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\IBillRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:42:48.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ResetPassword.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ResetPassword.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\ResetPassword.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ResetPassword.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\ResetPassword.xaml.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAQwFEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T03:50:54.341Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\CustomerService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Implementations\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\CustomerService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Implementations\\CustomerService.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAowEYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T03:24:43.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "IBillDetailService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IBillDetailService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Interfaces\\IBillDetailService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IBillDetailService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Interfaces\\IBillDetailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T05:47:18.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\appsettings.json",
-              "RelativeDocumentMoniker": "ClothingStore.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\appsettings.json",
-              "RelativeToolTip": "ClothingStore.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-06T15:42:17.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Program.cs",
-              "RelativeDocumentMoniker": "ClothingStore.API\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Program.cs",
-              "RelativeToolTip": "ClothingStore.API\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAwAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:42:51.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Interfaces\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T03:42:50.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Category.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Category.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Category.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Category.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\Category.xaml.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA1wDAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T05:42:05.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\CategoryService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Implementations\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\CategoryService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Implementations\\CategoryService.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAswG0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T08:30:38.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "MainWindow.g.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAWwCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:48:17.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 10,
               "Title": "Api.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Api.cs",
               "RelativeDocumentMoniker": "ClothingStore.WPF\\Api.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Api.cs",
               "RelativeToolTip": "ClothingStore.WPF\\Api.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBAAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:29:27.439Z"
+              "WhenOpened": "2024-07-05T01:29:27.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "key-icon.png - PNG [16x16, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\images\\key-icon.png",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\images\\key-icon.png",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\images\\key-icon.png - PNG [16x16, 32 bit, PNG]",
-              "RelativeToolTip": "ClothingStore.WPF\\images\\key-icon.png - PNG [16x16, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-07-05T05:20:21.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Interfaces\\ICustomerService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\ICustomerService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Interfaces\\ICustomerService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAABAAAA",
+              "DocumentIndex": 15,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\ProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\ProductWindow.xaml.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAgwEMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T03:25:51.917Z"
+              "WhenOpened": "2024-07-06T03:46:22.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:17:18.982Z"
+              "DocumentIndex": 17,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\ProductWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ProductWindow.xaml",
+              "RelativeToolTip": "ClothingStore.WPF\\ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-06T03:46:12.589Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T08:43:29.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAswGcAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T05:54:56.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IAccountService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Interfaces\\IAccountService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Interfaces\\IAccountService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Interfaces\\IAccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:44:16.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "BillDetailService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\BillDetailService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Implementations\\BillDetailService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\BillDetailService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Implementations\\BillDetailService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T06:48:08.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAASwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T03:26:06.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\AccountService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Implementations\\AccountService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\AccountService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Implementations\\AccountService.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T08:57:42.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Account.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Account.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Models\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:16:14.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "BillDetail.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\BillDetail.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\BillDetail.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\BillDetail.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Models\\BillDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:16:13.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 21,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Category.cs",
               "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Category.cs",
@@ -1037,75 +379,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Customer.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Models\\Customer.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:16:10.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Product.cs",
               "RelativeToolTip": "ClothingStore.DAL\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:16:09.827Z"
+              "WhenOpened": "2024-06-30T06:16:09.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\CustomerRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\CustomerRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 22,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Customer.cs",
+              "RelativeToolTip": "ClothingStore.DAL\\Models\\Customer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:15:42.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:15:41.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "HttpStatusCode.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\CustomResponse\\HttpStatusCode.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\CustomResponse\\HttpStatusCode.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\CustomResponse\\HttpStatusCode.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\CustomResponse\\HttpStatusCode.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:03:06.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowCwAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T05:59:59.824Z"
+              "WhenOpened": "2024-06-30T06:16:10.39Z"
             }
           ]
         },

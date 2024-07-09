@@ -62,18 +62,12 @@ namespace ClothingStore.WPF
             profile.Show();
         }
 
-        private void Category_Clicked(object sender, RoutedEventArgs e)
-        {
-            this.Hide();
-            Category category = new Category();
-            category.Show();
-
-        }
+        
 
         private void Product_Clicked(object sender, RoutedEventArgs e)
         {
             this.Hide();
-            Product product = new Product();
+            ProductWindow product = new ProductWindow();
             product.Show();
         }
 

@@ -21,6 +21,7 @@ namespace ClothingStore.DAL.Repositories.Implementations
 
         public async Task AddProductAsync(Product product)
         {
+            _context.Entry(product.Category).State = EntityState.Unchanged;
             await _context.Products.AddAsync(product);
             await _context.SaveChangesAsync();
         }
@@ -52,6 +53,12 @@ namespace ClothingStore.DAL.Repositories.Implementations
 
         public async Task UpdateProductAsync(Product product)
         {
+            _context.Entry(product.Category).State = EntityState.Unchanged;
+            var local = _context.Products.Local.FirstOrDefault(entry => entry.Id.Equals(product.Id));
+            if (local != null)
+            {
+                _context.Entry(local).State = EntityState.Detached;
+            }
             _context.Products.Update(product);
             await _context.SaveChangesAsync();
         }
