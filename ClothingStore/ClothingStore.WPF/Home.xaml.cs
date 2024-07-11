@@ -74,15 +74,21 @@ namespace ClothingStore.WPF
         private void Bill_Clicked(object sender, RoutedEventArgs e)
         {
             this.Hide();
-            Bill bill = new Bill();
+            BillWindow bill = new BillWindow();
             bill.Show();
         }
 
         private void Customer_Clicked(object sender, RoutedEventArgs e)
         {
             this.Hide();
-            Customer customer = new Customer();
+            CustomerWindow customer = new CustomerWindow();
             customer.Show();
+        }
+        private void Button_Logout(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            Login login = new Login();
+            login.Show();
         }
     }
 }

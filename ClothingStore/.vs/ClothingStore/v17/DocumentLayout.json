@@ -3,96 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\popupwindows\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\popupwindows\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\billwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\billwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\popupwindows\\editproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\popupwindows\\editproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\billwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\billwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.bll\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A18453-8888-40A2-9EEF-002FD172C454}|ClothingStore.BLL\\ClothingStore.BLL.csproj|solutionrelative:clothingstore.bll\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\popupwindows\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\popupwindows\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\customer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\customer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\bill.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\bill.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3020A046-E903-42A3-B746-7A3F8FFD1ED9}|ClothingStore.API\\ClothingStore.API.csproj|solutionrelative:clothingstore.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\bill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\bill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|c:\\users\\admin\\documents\\fr_.net\\efc\\clothing-store\\clothingstore\\clothingstore.wpf\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\popupwindows\\editproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\popupwindows\\editproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.wpf\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E027111-1FBF-4311-9E0F-CF442BB95FC5}|ClothingStore.WPF\\ClothingStore.WPF.csproj|solutionrelative:clothingstore.wpf\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\clothingstore.dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBEEF67-57F0-4744-9087-5E8DBD7A18B6}|ClothingStore.DAL\\ClothingStore.DAL.csproj|solutionrelative:clothingstore.dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 38,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,293 +62,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
-              "RelativeToolTip": "ClothingStore.BLL\\Services\\Implementations\\ProductService.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAwwHoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T18:32:57.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Customer.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Customer.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Customer.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Customer.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\Customer.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T16:27:58.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\AssemblyInfo.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T16:27:56.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Bill.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Bill.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Bill.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Bill.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\Bill.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T16:27:51.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\App.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T16:27:50.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ClothingStore.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ClothingStore.API\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwC4AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T16:27:17.468Z",
+              "DocumentIndex": 0,
+              "Title": "BillWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\BillWindow.xaml",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\BillWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\BillWindow.xaml",
+              "RelativeToolTip": "ClothingStore.WPF\\BillWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-11T15:00:26.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EditProductWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAwC4AAABAAAAA",
+              "Title": "BillWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\BillWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\BillWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\BillWindow.xaml.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\BillWindow.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwEcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T15:03:01.69Z",
+              "WhenOpened": "2024-07-11T15:00:24.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Bill.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Bill.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Bill.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Bill.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\Bill.xaml",
+              "DocumentIndex": 3,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAUwKIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:00:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\CustomerWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\CustomerWindow.xaml",
+              "RelativeToolTip": "ClothingStore.WPF\\CustomerWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-09T13:21:53.671Z",
+              "WhenOpened": "2024-07-11T14:59:54.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "Profile.xaml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Profile.xaml",
               "RelativeDocumentMoniker": "ClothingStore.WPF\\Profile.xaml",
               "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Profile.xaml",
               "RelativeToolTip": "ClothingStore.WPF\\Profile.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-09T13:16:24.695Z",
+              "WhenOpened": "2024-07-11T14:58:45.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Home.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Home.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\Home.xaml.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAYwEAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T13:15:47.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Home.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Home.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\Home.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-09T13:10:34.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Repositories\\Implementations\\ProductRepository.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAxwDwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T12:15:47.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Services\\ProductService.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\Services\\ProductService.cs",
-              "ViewState": "AQIAAJMAAAAAAAAAAAAAAJcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T09:59:09.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddProductWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAwEMAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T04:40:02.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddProductWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\PopUpWindows\\AddProductWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-09T04:37:45.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "EditProductWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml",
-              "RelativeToolTip": "ClothingStore.WPF\\PopUpWindows\\EditProductWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-09T03:44:20.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\DTOs\\ProductDTO.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\DTOs\\ProductDTO.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAoAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T15:01:57.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Api.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Api.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\Api.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Api.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\Api.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBAAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:29:27.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ProductWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ClothingStore.WPF\\ProductWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ProductWindow.xaml.cs",
-              "RelativeToolTip": "ClothingStore.WPF\\ProductWindow.xaml.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAgwEMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T03:46:22.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
               "Title": "ProductWindow.xaml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ProductWindow.xaml",
               "RelativeDocumentMoniker": "ClothingStore.WPF\\ProductWindow.xaml",
               "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ProductWindow.xaml",
               "RelativeToolTip": "ClothingStore.WPF\\ProductWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-06T03:46:12.589Z",
+              "WhenOpened": "2024-07-11T14:57:35.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Category.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\ProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\ProductWindow.xaml.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAADwv9gAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:16:12.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Product.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Models\\Product.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:16:09.827Z",
+              "WhenOpened": "2024-07-11T14:57:21.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "ClothingStore.DAL\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.DAL\\Models\\Customer.cs",
-              "RelativeToolTip": "ClothingStore.DAL\\Models\\Customer.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Profile.xaml.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\Profile.xaml.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAmwHEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:16:10.39Z"
+              "WhenOpened": "2024-07-11T08:50:02.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\Home.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml",
+              "RelativeToolTip": "ClothingStore.WPF\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-11T08:45:38.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "ClothingStore.WPF\\Home.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\FR_.Net\\EFC\\clothing-store\\ClothingStore\\ClothingStore.WPF\\Home.xaml.cs",
+              "RelativeToolTip": "ClothingStore.WPF\\Home.xaml.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:45:35.136Z",
+              "EditorCaption": ""
             }
           ]
         },

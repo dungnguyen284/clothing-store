@@ -58,12 +58,8 @@ C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.
 C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\bin\Debug\net8.0-windows\ClothingStore.BLL.pdb
 C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\bin\Debug\net8.0-windows\ClothingStore.DAL.pdb
 C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\ClothingStore.WPF.csproj.AssemblyReference.cache
-C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\Bill.baml
-C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\Customer.baml
 C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\Home.baml
 C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\ProductWindow.baml
-C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\Bill.g.cs
-C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\Customer.g.cs
 C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\Home.g.cs
 C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\Login.g.cs
 C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\PopUpWindows\AddProductWindow.g.cs
@@ -92,3 +88,13 @@ C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.
 C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\ClothingStore.WPF.pdb
 C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\ClothingStore.WPF.genruntimeconfig.cache
 C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\ref\ClothingStore.WPF.dll
+C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\BillWindow.baml
+C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\BillWindow.g.cs
+C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\PopUpWindows\BillDetailsWindow.g.cs
+C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\PopUpWindows\BillDetailsWindow.baml
+C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\CustomerWindow.baml
+C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\CustomerWindow.g.cs
+C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\PopUpWindows\AddCustomerWindow.g.cs
+C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\PopUpWindows\EditCustomerWindow.g.cs
+C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\PopUpWindows\AddCustomerWindow.baml
+C:\Users\admin\Documents\FR_.Net\EFC\clothing-store\ClothingStore\ClothingStore.WPF\obj\Debug\net8.0-windows\PopUpWindows\EditCustomerWindow.baml

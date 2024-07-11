@@ -26,7 +26,7 @@ namespace ClothingStore.DAL.Repositories.Implementations
 
         public async Task<List<Customer>> GetAllCustomersAsync()
         {
-            return await _context.Customers.ToListAsync();
+            return await _context.Customers.Where(c => c.UserName != "Anonymous").ToListAsync();
         }
 
         public async Task<Customer> GetCustomerByIdAsync(int id)

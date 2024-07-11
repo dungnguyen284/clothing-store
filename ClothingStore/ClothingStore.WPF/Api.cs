@@ -19,9 +19,23 @@ namespace ClothingStore.WPF
         public static string getProductByCategoryIdApi = "https://localhost:7295/api/products/category/";
         public static string getProductByNameApi = "https://localhost:7295/api/products/search?Name=";
 
+        //account
+        public static string getAccountByNameApi = "https://localhost:7295/api/accounts/search?UserName=";
 
         //category
         public static string getAllCategoriesApi = "https://localhost:7295/api/categories";
         public static string getCategoryByIdApi = "https://localhost:7295/api/categories/";
+
+        //bill
+        public static string getAllBillsApi = "https://localhost:7295/api/bills";
+        public static string getBillByIdApi = "https://localhost:7295/api/bills/";
+
+
+        //customer
+        public static string getAllCustomersApi = "https://localhost:7295/api/customers";
+        public static string getCustomerByIdApi = "https://localhost:7295/api/customers/";
+
+        //billDetail
+        public static string getBillDetailsByBillIdApi = "https://localhost:7295/api/billDetails/bill/";
     }
 }

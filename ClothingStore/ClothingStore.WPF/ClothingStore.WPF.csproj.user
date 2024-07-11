@@ -7,10 +7,10 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Bill.xaml.cs">
+    <Compile Update="BillWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Customer.xaml.cs">
+    <Compile Update="CustomerWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Home.xaml.cs">
@@ -19,7 +19,16 @@
     <Compile Update="Login.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="PopUpWindows\AddCustomerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="PopUpWindows\AddProductWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PopUpWindows\BillDetailsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PopUpWindows\EditCustomerWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="PopUpWindows\EditProductWindow.xaml.cs">
@@ -36,10 +45,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Bill.xaml">
+    <Page Update="BillWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Customer.xaml">
+    <Page Update="CustomerWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Home.xaml">
@@ -48,7 +57,16 @@
     <Page Update="Login.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="PopUpWindows\AddCustomerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="PopUpWindows\AddProductWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PopUpWindows\BillDetailsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PopUpWindows\EditCustomerWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="PopUpWindows\EditProductWindow.xaml">

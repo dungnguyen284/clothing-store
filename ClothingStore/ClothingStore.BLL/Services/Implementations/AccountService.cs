@@ -96,6 +96,21 @@ namespace ClothingStore.BLL.Services.Interfaces
             response.Data = true;
             return response;
         }
+        public async Task<ApiResponse<Account>> GetAccountByNameAsync(string name)
+        {
+            ApiResponse<Account> response = new();
+            var account = await _accountRepository.GetAccountByUsernameAsync(name);
+            if(account == null)
+            {
+                response.StatusCode = HttpStatusCode.NotFound;
+                response.Message = "Account not found";
+                return response;
+            }
+            response.Message = "Account fetched successfully";
+            response.Data = account;
+            response.StatusCode = HttpStatusCode.OK;
+            return response;
+        }
         private string GenerateRandomPassword()
         {
             string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
@@ -103,5 +118,6 @@ namespace ClothingStore.BLL.Services.Interfaces
             return new string(Enumerable.Repeat(chars, 8)
                              .Select(s => s[random.Next(s.Length)]).ToArray());
         }
+        
     }
 }

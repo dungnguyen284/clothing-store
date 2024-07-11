@@ -1,16 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ClothingStore.WPF.Services;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
 namespace ClothingStore.WPF
 {
@@ -19,9 +9,11 @@ namespace ClothingStore.WPF
     /// </summary>
     public partial class Profile : Window
     {
+        private readonly AccountService _accountService;
         public Profile()
         {
             InitializeComponent();
+            _accountService = new AccountService();
         }
         private void Border_MouseDown(object sender, MouseButtonEventArgs e)
         {
@@ -47,6 +39,7 @@ namespace ClothingStore.WPF
                 }
             }
         }
+
         private void Dashboard_Clicked(object sender, RoutedEventArgs e)
         {
             this.Hide();
@@ -62,18 +55,62 @@ namespace ClothingStore.WPF
         }
 
 
+
+        private void Product_Clicked(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            ProductWindow product = new ProductWindow();
+            product.Show();
+        }
+
         private void Bill_Clicked(object sender, RoutedEventArgs e)
         {
             this.Hide();
-            Bill bill = new Bill();
+            BillWindow bill = new BillWindow();
             bill.Show();
         }
 
         private void Customer_Clicked(object sender, RoutedEventArgs e)
         {
             this.Hide();
-            Customer customer = new Customer();
+            CustomerWindow customer = new CustomerWindow();
             customer.Show();
+        }
+        private async void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string oldPassword = txtOldPass.Password;
+            string newPassword = txtNewPass.Password;
+            string confirmPassword = txtCfPass.Password;
+            var admin = await _accountService.GetAccountByName("admin");
+            if(oldPassword != admin.Password)
+            {
+                MessageBox.Show("Old password is incorrect"); return;
+            }
+            if(newPassword != confirmPassword)
+            {
+                MessageBox.Show("Confirm password does not ma"); return;
+            }
+            try
+            {
+                await _accountService.ChangePassword(new BLL.DTOs.ChangePasswordRequest
+                {
+                    OldPassword = oldPassword,
+                    NewPassword = newPassword,
+                    ConfirmPassword = confirmPassword
+                });
+                MessageBox.Show("Change password successfully");
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.Message);
+            }
+            
+        }
+        private void Button_Logout(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            Login login = new Login();
+            login.Show();
         }
     }
 }

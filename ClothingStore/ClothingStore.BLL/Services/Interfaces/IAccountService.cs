@@ -1,5 +1,6 @@
 ﻿using ClothingStore.BLL.CustomResponse;
 using ClothingStore.BLL.DTOs;
+using ClothingStore.DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,5 +14,6 @@ namespace ClothingStore.BLL.Services.Interfaces
         Task<ApiResponse<bool>> ForgotPasswordAsync(string email);
         Task<ApiResponse<bool>> LoginAsync(LoginRequest request);
         Task<ApiResponse<bool>> ChangePasswordAsync(ChangePasswordRequest request, int accountId);
+        Task<ApiResponse<Account>> GetAccountByNameAsync(string name);
     }
 }

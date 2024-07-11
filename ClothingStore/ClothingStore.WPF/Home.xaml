@@ -73,7 +73,7 @@
 
 
                         </StackPanel>
-                        <Button Style="{StaticResource menuButton}" VerticalAlignment="Bottom" DockPanel.Dock="Bottom" Margin="15">
+                        <Button Style="{StaticResource menuButton}" VerticalAlignment="Bottom" DockPanel.Dock="Bottom" Margin="15" Click="Button_Logout">
                             <StackPanel Orientation="Horizontal">
                                 <Icon:PackIconMaterial Kind="Logout" Style="{StaticResource menuButtonIcon}"/>
                                 <TextBlock Text="Log Out"/>
@@ -85,7 +85,7 @@
             </Grid>
             
             <TextBlock Text="Dashboard" FontSize="32" FontWeight="SemiBold" Margin="5,103,0,10" HorizontalAlignment="Left" Foreground="#121518" Grid.Column="1"/>
-
+            
         </Grid>
 
 

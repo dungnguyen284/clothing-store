@@ -37,7 +37,7 @@ namespace ClothingStore.API.Controllers
             return Ok(result);
 
         }
-        [HttpGet("{date}")]
+        [HttpGet("dateBetween/{date}")]
         public async Task<IActionResult> GetBillsByDate(DateTime date)
         {
 
