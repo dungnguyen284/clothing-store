@@ -62,7 +62,7 @@ namespace ClothingStore.WPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ClothingStore.WPF;component/billwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ClothingStore.WPF;V1.0.0.0;component/billwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\BillWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

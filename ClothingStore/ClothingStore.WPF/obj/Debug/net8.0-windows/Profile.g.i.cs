@@ -110,7 +110,7 @@ namespace ClothingStore.WPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ClothingStore.WPF;component/profile.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ClothingStore.WPF;V1.0.0.0;component/profile.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Profile.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

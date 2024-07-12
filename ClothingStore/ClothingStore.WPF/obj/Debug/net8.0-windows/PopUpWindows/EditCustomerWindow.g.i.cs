@@ -53,7 +53,7 @@ namespace ClothingStore.WPF.PopUpWindows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ClothingStore.WPF;component/popupwindows/editcustomerwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ClothingStore.WPF;V1.0.0.0;component/popupwindows/editcustomerwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\PopUpWindows\EditCustomerWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

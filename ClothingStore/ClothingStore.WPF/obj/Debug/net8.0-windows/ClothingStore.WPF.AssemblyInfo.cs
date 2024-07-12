@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClothingStore.WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae44797f5e10fc03343feebd933a69a2570f5b1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7abc9640d0ba9d53140f55c0a27c8c2403e4202")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClothingStore.WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClothingStore.WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
