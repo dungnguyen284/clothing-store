@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ClothingStore.WPF.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,10 +21,37 @@ namespace ClothingStore.WPF.PopUpWindows
     public partial class EditCustomerWindow : Window
     {
         private int id;
+        private readonly  CustomerService customerService;
         public EditCustomerWindow(int id)
         {
             InitializeComponent();
             this.id = id;
+            customerService = new CustomerService();
+        }
+
+        private async void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            var customer = await customerService.GetCustomerById(id);
+            txtName.Text = customer.UserName;
+            txtId.Text = customer.Id.ToString();
+            txtPhone.Text = customer.Phone;
+        }
+
+        private void CancelButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private async void SaveButton_Click(object sender, RoutedEventArgs e)
+        {
+            await customerService.UpdateCustomer(id, new DAL.Models.Customer
+            {
+                Id = id,
+                UserName = txtName.Text,
+                Phone = txtPhone.Text,
+                SavePoints = 0
+            });
+            MessageBox.Show("Updated customer successfully");
         }
     }
 }

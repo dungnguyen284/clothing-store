@@ -1,6 +1,7 @@
 ﻿using ClothingStore.BLL.CustomResponse;
 using ClothingStore.BLL.Services.Interfaces;
 using ClothingStore.DAL.Models;
+using ClothingStore.DAL.Repositories.Implementations;
 using ClothingStore.DAL.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -98,9 +99,22 @@ namespace ClothingStore.BLL.Services.Implementations
             return response;
         }
 
-        public Task<ApiResponse<bool>> UpdateCustomerAsync(Customer customer)
+        public async Task<ApiResponse<bool>> UpdateCustomerAsync(Customer customer)
         {
-            throw new NotImplementedException();
+            var response = new ApiResponse<bool>();
+            var customerExist = await _customerRepository.GetCustomerByIdAsync(customer.Id);
+            if (customerExist == null)
+            {
+                response.Data = false;
+                response.Message = "Customer not found";
+                response.StatusCode = HttpStatusCode.NotFound;
+                return response;
+            }
+            await _customerRepository.UpdateCustomerAsync(customer);
+            response.Data = true;
+            response.Message = "Customer updated successfully";
+            response.StatusCode = HttpStatusCode.OK;
+            return response;
         }
     }
 }

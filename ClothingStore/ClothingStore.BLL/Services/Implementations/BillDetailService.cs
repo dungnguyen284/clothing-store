@@ -1,6 +1,7 @@
 ﻿using ClothingStore.BLL.CustomResponse;
 using ClothingStore.BLL.Services.Interfaces;
 using ClothingStore.DAL.Models;
+using ClothingStore.DAL.Repositories.Implementations;
 using ClothingStore.DAL.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -16,6 +17,17 @@ namespace ClothingStore.BLL.Services.Implementations
         public BillDetailService(IBillDetailRepository billDetailRepository)
         {
             _billDetailRepository = billDetailRepository;
+        }
+
+        public async Task<ApiResponse<bool>> AddBillDetail(BillDetail billDetail)
+        {
+            ApiResponse<bool> response = new();
+
+            await _billDetailRepository.AddBillDetailAsync(billDetail);
+            response.Data = true;
+            response.Message = "Bill Detail added successfully";
+            response.StatusCode = HttpStatusCode.OK;
+            return response;
         }
 
         public async Task<ApiResponse<List<BillDetail>>> GetBillDetailsOfBill(int billId)

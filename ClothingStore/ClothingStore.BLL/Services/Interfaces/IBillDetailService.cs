@@ -11,5 +11,6 @@ namespace ClothingStore.BLL.Services.Interfaces
     public interface IBillDetailService
     {
         Task<ApiResponse<List<BillDetail>>> GetBillDetailsOfBill(int billId);
+        Task<ApiResponse<bool>> AddBillDetail(BillDetail billDetail);
     }
 }

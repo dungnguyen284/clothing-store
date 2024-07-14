@@ -36,5 +36,18 @@ namespace ClothingStore.WPF.Services
                 }
             }
         }
+        public async Task AddBillDetail(BillDetail product)
+        {
+            using (HttpClient client = new HttpClient())
+            {
+                // Serialize the product object to JSON
+                var jsonContent = JsonConvert.SerializeObject(product);
+
+                // Create StringContent with the JSON content and set the content type to application/json
+                var content = new StringContent(jsonContent, Encoding.UTF8, "application/json");
+                var response = await client.PostAsync("https://localhost:7295/api/billDetails", content);
+
+            }
+        }
     }
 }

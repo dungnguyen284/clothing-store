@@ -46,6 +46,11 @@ namespace ClothingStore.DAL.Repositories.Implementations
 
         public async Task UpdateCustomerAsync(Customer customer)
         {
+            var local = _context.Customers.Local.FirstOrDefault(entry => entry.Id.Equals(customer.Id));
+            if (local != null)
+            {
+                _context.Entry(local).State = EntityState.Detached;
+            }
             _context.Customers.Update(customer);
             await _context.SaveChangesAsync();
         }

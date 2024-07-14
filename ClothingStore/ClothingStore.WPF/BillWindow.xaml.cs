@@ -146,10 +146,7 @@ namespace ClothingStore.WPF
             BillDetailsWindow editWindow = new BillDetailsWindow(bill.Id);
             editWindow.ShowDialog();
         }
-        private void AddButton_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
+        
         //private async void DeleteButton_Click(object sender, RoutedEventArgs e)
         //{
 
@@ -166,6 +163,13 @@ namespace ClothingStore.WPF
             }
             while (current != null);
             return null;
+        }
+
+        private void CreateBillButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+            CreateBillWindow createBillWindow = new CreateBillWindow();
+            createBillWindow.ShowDialog();
         }
     }
 }

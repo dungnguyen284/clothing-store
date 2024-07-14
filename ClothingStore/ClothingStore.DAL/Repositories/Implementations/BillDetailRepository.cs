@@ -19,6 +19,8 @@ namespace ClothingStore.DAL.Repositories.Implementations
         }   
         public async Task AddBillDetailAsync(BillDetail billDetail)
         {
+            _context.Entry(billDetail.Product).State = EntityState.Unchanged;
+            _context.Entry(billDetail.Bill).State = EntityState.Unchanged;
             await _context.BillDetails.AddAsync(billDetail);
             await _context.SaveChangesAsync();
         }

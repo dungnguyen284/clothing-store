@@ -1,5 +1,6 @@
 ﻿using ClothingStore.BLL.DTOs;
 using ClothingStore.BLL.Services.Interfaces;
+using ClothingStore.DAL.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -44,6 +45,12 @@ namespace ClothingStore.API.Controllers
             var result = await _billService.GetBillsByDate(date);
             return Ok(result);
 
+        }
+        [HttpPost]
+        public async Task<IActionResult> CreateBill([FromBody] Bill bill)
+        {
+            var result = await _billService.AddBillAsync(bill);
+            return Ok(result);
         }
 
     }

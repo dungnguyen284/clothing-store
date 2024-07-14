@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ClothingStore.WPF.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +20,28 @@ namespace ClothingStore.WPF.PopUpWindows
     /// </summary>
     public partial class AddCustomerWindow : Window
     {
+        private readonly CustomerService customerService;
         public AddCustomerWindow()
         {
+            customerService = new CustomerService();
             InitializeComponent();
+        }
+
+        private void CancelButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private async void SaveButton_Click(object sender, RoutedEventArgs e)
+        {
+            var customer = new DAL.Models.Customer
+            {
+                UserName = txtName.Text,
+                Phone = txtPhone.Text,
+                SavePoints = 0
+            };
+            await customerService.AddCustomer(customer);
+            MessageBox.Show("Added customer successfully");
         }
     }
 }

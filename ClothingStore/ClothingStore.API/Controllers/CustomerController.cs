@@ -1,4 +1,5 @@
 ﻿using ClothingStore.BLL.Services.Interfaces;
+using ClothingStore.DAL.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -25,5 +26,23 @@ namespace ClothingStore.API.Controllers
             var result = await _customerService.GetCustomerByIdAsync(id);
             return Ok(result);
         }
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateCustomerAsync(int id, [FromBody] Customer customer)
+        {
+            customer.Id = id;
+            var result = await _customerService.UpdateCustomerAsync(customer);
+            if (result.IsSuccess)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+        [HttpPost]
+        public async Task<IActionResult> CreateCustomer([FromBody] Customer customer)
+        {
+            var result = await _customerService.AddCustomerAsync(customer);
+            return Ok(result);
+        }
+
     }
 }
